@@ -1,0 +1,19 @@
+.counter{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.counterH3{
+  font-size: 33px;
+  margin-bottom: 20px;
+}
+.counterH1{
+  font-size: 53px;
+  color: teal;
+}
+.counterbutton{
+  padding: 10px;
+  background-color: teal;
+}

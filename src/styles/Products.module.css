@@ -1,0 +1,12 @@
+.product__div{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 2.5rem;
+}
+
+
+/* Single product card */
+.product__div > div{
+margin: 20px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

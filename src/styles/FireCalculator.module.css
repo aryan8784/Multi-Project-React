@@ -1,0 +1,40 @@
+.main__div {
+  display: flex;
+  padding: 3rem;
+}
+.main__div > div:nth-child(1) {
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-right: 1rem;
+  padding: 2rem;
+  border-radius: 10px;
+}
+.main__div > div:nth-child(1) > input{
+  width: 70%;
+  margin-bottom: 1rem;
+}
+
+.main__div > div:nth-child(2) {
+  width: 60%;
+  text-align: center;
+  border-radius: 10px;
+  padding-top: 4rem;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.main__div > div:nth-child(1)>div >button{
+  width: 40%;
+  padding: 10px;
+  margin-top: 10px;
+  
+}
+.main__div > div:nth-child(2) > h2{
+  margin-top: 20px;
+  text-align: start;
+  margin-left: 30px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 10px;
+  margin-right: 5px;
+  background-color: aquamarine;
+  border-radius: 20px;
+}

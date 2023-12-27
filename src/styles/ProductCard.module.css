@@ -1,0 +1,22 @@
+.image{
+  width: 100%;
+  height: 40vh;
+  border-radius: 10px;
+}
+.main__div{
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.button__div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.button__div > button{
+  font-size: 15px;
+  padding: 10px;
+  background-color: teal;
+}

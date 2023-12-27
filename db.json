@@ -1,0 +1,26 @@
+{
+  "todos": [],
+  "carts": [
+    {
+      "id": 3,
+      "title": "iPhone 15",
+      "price": 549,
+      "quantity": 15,
+      "total": 8235,
+      "discountPercentage": 12.96,
+      "discountPrice": 969,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "price": 280,
+      "quantity": 19,
+      "total": 5320,
+      "discountPercentage": 12.96,
+      "discountPrice": 969,
+      "category": "smartphones"
+    }
+  ]
+}
